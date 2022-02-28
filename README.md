@@ -25,8 +25,6 @@
 - ignoring files and directories
 - tagging and releasing
 
-![This is an image](C:\Users\HP\Desktop\ttgit.png)
-
 
 This is course link [Git and GitHub course ](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF).
 this is documentation link  [Git doc](https://docs.github.com/en/get-started/using-git/about-git).
